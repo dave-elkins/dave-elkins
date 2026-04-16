@@ -36,12 +36,14 @@ A Terraform module for AWS WAF V2 — simplifying web application firewall confi
 
 ## 🤝 Open to Consulting
 
-I'm selectively available for consulting engagements, particularly for **health-tech startups** needing:
+I'm selectively available for consulting engagements through my company [FenoHLTH)](https://fenohlth.com), particularly for **health-tech startups** needing:
 - Senior architecture guidance
 - EMR / EHR integration expertise
 - HIPAA-compliant AWS/Azure infrastructure
 - Fractional CTO / technical advisory support
 
-📫 **Reach me at:** delkins01@gmail.com  
+Reach me at dave@fenohlth.com or visit [FenoHLTH)](https://fenohlth.com)
+
+📫 **Reach me at:** dave@fenohlth.com
 🔗 **LinkedIn:** [linkedin.com/in/daveelkins](https://linkedin.com/in/daveelkins)  
-🌐 **Website:** [dave-elkins.github.io](https://dave-elkins.github.io)
+🌐 **Website:** [FenoHLTH)](https://fenohlth.com)
